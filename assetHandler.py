@@ -13,6 +13,7 @@ from bs4 import BeautifulSoup
 from other_functions import *
 import gvars
 
+
 class AssetHandler:
     def __init__(self):
         self.lockedAssets = set() # assets without a defined strategy

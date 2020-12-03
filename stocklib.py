@@ -11,5 +11,5 @@ class Stock:
         self.currentPrice = 0
         self.direction = ''
 
-    def set_name(self,name):
+    def set_name(self, name):
         self.name = name

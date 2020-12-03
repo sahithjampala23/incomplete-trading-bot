@@ -7,7 +7,7 @@
 import alpaca_trade_api as tradeapi
 
 import numpy as np
-import newtulipy as ti
+import tulipy as ti
 import os, time, threading, pytz
 import pandas as pd
 
